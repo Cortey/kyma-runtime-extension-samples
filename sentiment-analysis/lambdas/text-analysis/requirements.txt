@@ -1,2 +1,3 @@
 TextBlob==0.17.1
-bottle==0.12.25
+bottle==0.12.19
+cherrypy==8.9.1
